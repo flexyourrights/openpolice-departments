@@ -1,0 +1,27 @@
+{
+    "name": "flexyourrights/openpolice-departments",
+    "description": "This repository can install the OpenPolice.org database of 18,000 police departments in the U.S..",
+    "keywords": [
+    	"Open Police",
+    	"Open Police Complaints",
+    	"Flex Your Rights", 
+    	"survey", 
+    	"misconduct", 
+    	"compliments", 
+    	"commendations", 
+    	"police departments", 
+    	"oversight", 
+    	"accountability",
+    	"Laravel", 
+    	"SurvLoop"                            
+    ],
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Morgan Lesko",
+            "homepage": "https://github.com/flexyourrights/openpolice",
+            "email": "morgan@flexyourrights.org",
+            "role": "Developer"
+        }
+    ]
+}
